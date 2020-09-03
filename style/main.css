@@ -1,4 +1,4 @@
-:root {
+    :root {
     --red:#E50914;
     --black:#141414;
     --grey: #AAA;
@@ -47,7 +47,7 @@ header nav a:hover {
 .main-movie {
     font-size: 16px;
     background: linear-gradient(rgba(0, 0, 0, .35), rgba(0, 0, 0, .35)100%), 
-    url('/img/capa-suits.png');
+    url('C:/DIO/Bootcamp_Javascript/Projeto_Bootcamp/Netflix/img/capa-suits.png');
 
     height: 600px;
     background-size: cover;
@@ -90,4 +90,8 @@ header nav a:hover {
 
 .button i {
     margin-right:5px;
+}
+
+.container {
+    margin-left: 20px;
 }
